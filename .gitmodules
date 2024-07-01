@@ -1,0 +1,12 @@
+[submodule "para-manager"]
+	path = para-manager
+	url = https://github.com/gigaByteSized/para-manager
+[submodule "jratienza-undergrad-sp-latex-manuscript"]
+	path = jratienza-undergrad-sp-latex-manuscript
+	url = https://github.com/gigaByteSized/jratienza-undergrad-sp-latex-manuscript
+[submodule "para_client"]
+	path = para_client
+	url = https://github.com/gigaByteSized/para_client
+[submodule "jratienza-undergrad-sp-latex-ieee"]
+	path = jratienza-undergrad-sp-latex-ieee
+	url = https://github.com/gigaByteSized/jratienza-undergrad-sp-latex-ieee
